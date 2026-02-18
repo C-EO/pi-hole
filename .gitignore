@@ -9,3 +9,7 @@ __pycache__
 *.egg-info
 .idea/
 *.iml
+.vscode/
+.venv/
+.fleet/
+.cache/

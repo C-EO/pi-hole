@@ -1,6 +1,6 @@
-docker-compose==1.23.2
-pytest==4.3.0
-pytest-xdist==1.26.1
-pytest-cov==2.6.1
-testinfra==1.19.0
-tox==3.7.0
+pyyaml == 6.0.3
+pytest == 9.0.2
+pytest-xdist == 3.8.0
+pytest-testinfra == 10.2.2
+tox == 4.35.0
+pytest-clarity == 1.0.1
